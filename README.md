@@ -2,7 +2,7 @@
 
 ## 1 : 
 __Error-Log__
- ## synthax
+ ### synthax
  ## runtime
  ## logic
 __JS-reference__
