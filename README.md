@@ -2,20 +2,24 @@
 
 ## 1 : 
 __Error-Log__
- ##synthax
- ##runtime
- ##logic
+ ## synthax
+ ## runtime
+ ## logic
 __JS-reference__
- ##human-helpers
- ##premitives (coersion)
- ##expressions
- ##operators
- ##variables
- ##Block Scope
- ##Lexical Scope
- ##Conditionals
- ##Reference type
- ##iterations
+ ## human-helpers
+ ## premitives (coersion)
+ ## expressions
+ ## operators
+ ## variables
+ ## Block Scope
+ ## Lexical Scope
+ ## Conditionals
+ ## Reference type
+ ## iterations
+ ## Error handling
+ ## functions 2
+ ## context
+ ## inheritance
 ___
 ## 2 :
 __Expansions__
