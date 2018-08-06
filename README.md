@@ -6,20 +6,20 @@ __Error-Log__
  2. runtime
  3. logic
 __JS-reference__
- ## human-helpers
- ## premitives (coersion)
- ## expressions
- ## operators
- ## variables
- ## Block Scope
- ## Lexical Scope
- ## Conditionals
- ## Reference type
- ## iterations
- ## Error handling
- ## functions 2
- ## context
- ## inheritance
+ 1. human-helpers
+ 2. premitives (coersion)
+ 3. expressions
+ 4. operators
+ 5. variables
+ 6. Block Scope
+ 7. Lexical Scope
+ 8. Conditionals
+ 9. Reference type
+ 10. iterations
+ 11. Error handling
+ 12. functions 2
+ 13. context
+ 14. inheritance
 ___
 ## 2 :
 __Expansions__
