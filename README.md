@@ -2,9 +2,9 @@
 
 ## 1 : 
 __Error-Log__
- ### synthax
- ## runtime
- ## logic
+ 1. synthax
+ 2. runtime
+ 3. logic
 __JS-reference__
  ## human-helpers
  ## premitives (coersion)
