@@ -1,10 +1,21 @@
 # Exercices
 
 ## 1 : 
-__An-Errors__
-
-__Snippet-Studies__
-
+__Error-Log__
+ ##synthax
+ ##runtime
+ ##logic
+__JS-reference__
+ ##human-helpers
+ ##premitives (coersion)
+ ##expressions
+ ##operators
+ ##variables
+ ##Block Scope
+ ##Lexical Scope
+ ##Conditionals
+ ##Reference type
+ ##iterations
 ___
 ## 2 :
 __Expansions__
@@ -26,3 +37,10 @@ ___
 __reading-lodash__
 
 __TDD - Test Driven Environment__
+
+## 6 :
+__Solution design 1 => App design__
+__Solution design 2 => User focused dev__
+__Soution design 3 => Collaboration__
+
+
