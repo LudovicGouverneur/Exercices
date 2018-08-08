@@ -10,9 +10,10 @@ __Error-Log__
 ___
 ## 2 :
 __Expansions__
-[Link](https://github.com/LudovicGouverneur/expansions.git)
+ * [model](https://github.com/LudovicGouverneur/expansions.git)
+ * Done : 
+ 
 
-__Description__ : *where single line expression are studied*  
 
 ___
 ## 3 : 
