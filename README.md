@@ -9,7 +9,7 @@ __Error-Log__
 
 ___
 ## 2 :
-Expansions
+__Expansions__
 [Link](https://github.com/LudovicGouverneur/expansions.git)
 
 __Description__ : *where single line expression are studied*  
