@@ -39,7 +39,8 @@ __Solution design 2 => User focused dev__
 __Soution design 3 => Collaboration__
 
 ## Loadash 
- * [Loadash] : https://github.com/elewa-academy/reading-lodash
+ * [Lodash Practise] : (https://github.com/LudovicGouverneur/Lodash_Practise.git)
+ * [Loadash on Elewa] : https://github.com/elewa-academy/reading-lodash
  
 ## [JS-30 challenge](https://github.com/elewa-academy/javascript-30)
  * JS_30_01 : 
