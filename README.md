@@ -40,7 +40,8 @@ __Soution design 3 => Collaboration__
 
 ## Loadash 
  * [Lodash Practise] : (https://github.com/LudovicGouverneur/Lodash_Practise.git)
- * [Loadash on Elewa] : https://github.com/elewa-academy/reading-lodash
+ * [Lodash on Elewa] : https://github.com/elewa-academy/reading-lodash
+ * [Lodash library "expansion"] : (https://github.com/elewa-academy/reading-padStart.git)
  
 ## [JS-30 challenge](https://github.com/elewa-academy/javascript-30)
  * JS_30_01 : 
